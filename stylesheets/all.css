@@ -14048,7 +14048,7 @@ textarea.form-control-lg {
 }
 
 .sidebar-toggled .sidebar {
-  margin-left: 0;
+  margin-left: 0px;
 }
 .sidebar-toggled .main {
   margin-left: 280px;
